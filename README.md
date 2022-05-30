@@ -1,2 +1,2 @@
 # lyft-trip-data
-Database project on codecademy
+Database table joining project on codecademy
